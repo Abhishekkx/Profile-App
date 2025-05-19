@@ -11,10 +11,5 @@ This Flutter app displays a Profile Activity UI with a dark theme. It includes a
 - IDE with Flutter/Dart plugins
 - Emulator or device
 
-## Screenshots
-
-Add your screenshots here:
-
-Profile app screenshot.jpg
 
 
